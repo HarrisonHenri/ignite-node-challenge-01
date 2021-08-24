@@ -2,7 +2,7 @@
 
 ## About this Project
 
-_"The objective of this project is to exercise some api concepts using NodeJS"._
+_"The objective of this project is to exercise some api concepts using NodeJS as part of the [Ignite program](https://rocketseat.com.br/ignite)"._
 
 ## Why?
 
